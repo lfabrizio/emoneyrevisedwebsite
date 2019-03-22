@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.video-container {
+        display: flex;
+}
+
+.video {
+    display:flex;
+    align-items: stretch;
+} 
+.menu-container {
+  display: flex;
+  justify-content: center;    /* Add this */
+}
+
